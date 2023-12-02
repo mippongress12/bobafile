@@ -1,4 +1,5 @@
 <html>
+    <title>vitya_ogysok</title>
     <style>
         img{ 
             width:100px;
