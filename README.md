@@ -6,13 +6,15 @@
             }
         a{
             color:#531121;
-             text-decoration: none;
+            text-decoration: none;
             }
         h1{
             text-align: center;
             font-family: segoe print;
         }
-        body{background-color:#FFDAB9}
+        body{
+            background-color:#FFDAB9;
+        }
         main,footer{
             font-family: comic sans ms;
         }
